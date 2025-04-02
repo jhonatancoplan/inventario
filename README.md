@@ -110,6 +110,6 @@ A estrutura de diretórios do projeto é a seguinte:
 │
 ├── /config.php         # Contém as variáveis de configuração (usuário e senha)
 ├── /inventario.txt     # Arquivo onde os dados do inventário são armazenados
-├── logout.php          #Desconecta o usuário e redireciona para a página de login
+├── logout.php          # Desconecta o usuário e redireciona para a página de login
 └── index.php           # Página inicial, que redireciona para o inventário, cadastro, inventário, login
 ```
