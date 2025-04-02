@@ -42,7 +42,7 @@ Relação linhas x colunas é 1x3
 ### b. Back-end
 
 **i. Quais ferramentas foram utilizadas (editores/linguagens)? Porque? O que cada um deles faz?**  
-No back-end, o projeto utiliza **PHP** para gerenciar o login do usuário, o cadastro de itens no inventário e a persistência dos dados. O PHP é ideal para trabalhar com formulários e processar entradas de usuários de forma dinâmica.
+No back-end, o projeto utiliza **PHP** para gerenciar o login do usuário, o cadastro de itens no inventário e a persistência dos dados. 
 
 **ii. Sobre o código PHP**
 
