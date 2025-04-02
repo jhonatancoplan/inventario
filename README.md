@@ -37,7 +37,7 @@ A interface foi dividida em áreas específicas, como:
 
 A interface é responsiva, ou seja, ela se adapta ao tamanho da tela (seja em desktop ou dispositivo móvel), aproveitando o sistema de grid do Bootstrap.
 
-Relação Relação linhas x colunas e 1x3 
+Relação linhas x colunas é 1x3 
 
 ### b. Back-end
 
