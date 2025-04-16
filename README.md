@@ -111,6 +111,7 @@ b. Hierarquia de diretórios 📁
 
 A estrutura de diretórios do projeto é a seguinte:
 
+```
 /
 ├── /pages              # Contém as páginas principais como cadastro, inventário e login
 │   ├── cadastro.php    # Formulário de cadastro de itens
@@ -125,3 +126,4 @@ A estrutura de diretórios do projeto é a seguinte:
 ├── /inventario.txt     # Arquivo onde os dados do inventário são armazenados
 ├── logout.php          # Desconecta o usuário e redireciona para a página de login
 └── index.php           # Página inicial, que redireciona para o inventário, cadastro, inventário, login
+```
